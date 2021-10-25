@@ -4,4 +4,4 @@
 - 📫 How to reach me: serey.pedro@gmail.com
 - 😄 Pronouns: He/Him
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pserey&show_icons=true&theme=gruvbox)
