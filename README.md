@@ -1,4 +1,4 @@
-# Hi! I'm Pedro Serey.
+# Hi, I'm Pedro
 
 *CS undergraduate messing with Python, Web and Photography.*
 
