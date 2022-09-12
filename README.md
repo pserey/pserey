@@ -18,4 +18,4 @@ Currently learning **Vanilla JS**, **Python** and **Java**.
 
 ## ⚡ My Stats
 ![Pedro's GitHub stats](https://github-readme-stats-2-pink.vercel.app/api?username=pserey&show_icons=true&theme=gruvbox)
-![Most Used Languages](https://github-readme-stats-2-pink.vercel.app/api/top-langs/?username=pserey&show_icons=true&theme=gruvbox)
+![Most Used Languages](https://github-readme-stats-2-pink.vercel.app/api/top-langs/?username=pserey&show_icons=true&theme=gruvbox&exclude_repo=github-readme-stats,monkeytype,Tamburetei)
