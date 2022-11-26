@@ -14,10 +14,6 @@ Learning Python, Java and Vanilla JS.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/serey.foto/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 ## ⚡ My Stats
 ![Pedro's GitHub stats](https://github-readme-stats-2-pink.vercel.app/api?username=pserey&show_icons=true&theme=gruvbox)
 ![Most Used Languages](https://github-readme-stats-2-pink.vercel.app/api/top-langs/?username=pserey&layout=compact&show_icons=true&theme=gruvbox&exclude_repo=dotfiles,lunr.repo,conf-neovim,parktech)
