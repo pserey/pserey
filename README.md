@@ -1,6 +1,6 @@
 # Hi, I'm Pedro
 
-*Just another coffee addicted CS undergraduate.*
+Just another coffee addicted CS undergraduate.
 
 ## ⚡ My Stats
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pserey&theme=gruvbox&custom_title=My%20github%20stats)](https://github.com/anuraghazra/github-readme-stats)
