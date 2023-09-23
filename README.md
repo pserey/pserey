@@ -15,5 +15,5 @@ Learning Python, Java and Vanilla JS.
 </a>
 
 ## ⚡ My Stats
-![Pedro's GitHub stats](https://github-readme-stats-2-pink.vercel.app/api?username=pserey&show_icons=true&theme=gruvbox)
-![Most Used Languages](https://github-readme-stats-2-pink.vercel.app/api/top-langs/?username=pserey&layout=compact&show_icons=true&theme=gruvbox&exclude_repo=dotfiles,lunr.repo,conf-neovim,parktech)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pserey&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pserey)](https://github.com/anuraghazra/github-readme-stats)
