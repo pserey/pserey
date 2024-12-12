@@ -1,6 +1,6 @@
 # Hi, I'm Pedro
 
-Just another coffee addicted CS undergraduate.
+Just another coffee-addicted CS undergraduate.
 
 ## ⚡ My Stats
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pserey&theme=gruvbox&custom_title=My%20github%20stats)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,11 +11,11 @@ Just another coffee addicted CS undergraduate.
 
 ## 🖥️ Technologies and Tools used
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📱 Social 
 <a href="https://www.linkedin.com/in/pedro-serey/">
