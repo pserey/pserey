@@ -3,11 +3,11 @@
 Just another coffee-addicted CS undergraduate.
 
 ## ⚡ My Stats
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pserey&theme=gruvbox&custom_title=My%20github%20stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro's GitHub stats](https://grs.serey.uk/api?username=pserey&theme=gruvbox&custom_title=My%20github%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pserey&theme=gruvbox&exclude_repo=desafio-estatistica,parktech,parktech-prolog,astronvim&layout=compact&custom_title=Used%20languages&size_weight=0.2&count_weight=0.8)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![used languages](https://grs.serey.uk/api/top-langs/?username=pserey&theme=gruvbox&exclude_repo=desafio-estatistica,parktech,parktech-prolog,astronvim&layout=compact&custom_title=Used%20languages&size_weight=0.2&count_weight=0.8)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pserey&theme=gruvbox&exclude_repo=parktech,parktech-prolog&layout=compact&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![used languages](https://grs.serey.uk/api/top-langs/?username=pserey&theme=gruvbox&exclude_repo=parktech,parktech-prolog&layout=compact&custom_title=Used%20languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖥️ Technologies and Tools used
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
