@@ -1,6 +1,6 @@
 # Hi, I'm Pedro
 
-Just another coffee-addicted CS undergraduate.
+Just another coffee-addicted CS graduate.
 
 ## ⚡ My Stats
 [![Pedro's GitHub stats](https://grs.serey.uk/api?username=pserey&theme=gruvbox&custom_title=My%20github%20stats)](https://grs.serey.uk/api?username=pserey&theme=gruvbox&custom_title=My%20github%20stats)
